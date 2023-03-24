@@ -10,6 +10,7 @@ publishes it to MQTT.
 
 ## Quick Start
 
+```sh
 docker run  \
   -e "ENERGY2MQTT_MODBUS_ID=1" \
   -e "ENERGY2MQTT_MODBUS_HOST=192.168.10.48" \
@@ -23,6 +24,7 @@ docker run  \
   --name energy2mqtt \
   --restart always \
   danylevskyi/energy2mqtt
+```
 
 To run debug just add environment variable `DEBUG=ENERGY2MQTT`.
 
