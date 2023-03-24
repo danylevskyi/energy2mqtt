@@ -1,0 +1,74 @@
+[
+  {
+    "id": "volatageL1",
+    "label": "Voltage L1",
+    "register": 0,
+    "bytes": 4,
+    "toFixed": 0,
+    "unit": "V"
+  },
+  {
+    "id": "volatageL2",
+    "label": "Voltage L2",
+    "register": 4,
+    "bytes": 4,
+    "toFixed": 0,
+    "unit": "V"
+  },
+  {
+    "id": "volatageL3",
+    "label": "Voltage L3",
+    "register": 8,
+    "bytes": 4,
+    "toFixed": 0,
+    "unit": "V"
+  },
+  {
+    "id": "currentL1",
+    "label": "Current L1",
+    "register": 12,
+    "bytes": 4,
+    "toFixed": 2,
+    "unit": "A"
+  },
+  {
+    "id": "currentL2",
+    "label": "Current L2",
+    "register": 16,
+    "bytes": 4,
+    "toFixed": 2,
+    "unit": "A"
+  },
+  {
+    "id": "currentL3",
+    "label": "Current L3",
+    "register": 20,
+    "bytes": 4,
+    "toFixed": 2,
+    "unit": "A"
+  },
+  {
+    "id": "powerL1",
+    "label": "Power L1",
+    "register": 24,
+    "bytes": 4,
+    "toFixed": 0,
+    "unit": "W"
+  },
+  {
+    "id": "powerL2",
+    "label": "Power L2",
+    "register": 28,
+    "bytes": 4,
+    "toFixed": 0,
+    "unit": "W"
+  },
+  {
+    "id": "powerL3",
+    "label": "Power L3",
+    "register": 32,
+    "bytes": 4,
+    "toFixed": 0,
+    "unit": "W"
+  }
+]
